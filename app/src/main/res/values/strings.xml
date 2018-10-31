@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServerControlling</string>
+    <string name="textViewName">Name:</string>
+    <string name="textViewPass">Password:</string>
+    <string name="buttonDone">Done</string>
+    <string name="imageButtonProc">ViewProcesses</string>
+    <string name="imageButtonFiles">ViewFiles</string>
+</resources>
